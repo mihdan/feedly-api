@@ -25,7 +25,7 @@ Installation
 Add this to your composer.json
 ```
 "require": {
-        "kbariotis/feedly-api": "dev-master"
+        "mihdan/feedly-api": "dev-master"
     }
 ```
 
