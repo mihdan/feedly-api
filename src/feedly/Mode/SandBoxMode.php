@@ -9,7 +9,7 @@ class SandBoxMode implements Mode
 
     public function getApiBaseUrl()
     {
-        return "https://sandbox.feedly.com";
+        return "https://sandbox7.feedly.com";
     }
 
 }
